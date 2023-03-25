@@ -1,0 +1,32 @@
+[
+    {
+      "_id": "641f148d0a305aaaff135e4d",
+      "price": 21,
+      "eyeColor": "green",
+      "name": "Heath Cardenas"
+    },
+    {
+      "_id": "641f148d2239b8b89a72a358",
+      "price": 24,
+      "eyeColor": "green",
+      "name": "Inez Clements"
+    },
+    {
+      "_id": "641f148d19783865e782ee39",
+      "price": 120,
+      "eyeColor": "green",
+      "name": "Ursula Orr"
+    },
+    {
+      "_id": "641f148d6ba6c3d38f819c7d",
+      "price": 150,
+      "eyeColor": "brown",
+      "name": "Hardin Nash"
+    },
+    {
+      "_id": "641f148dbe6687866e266493",
+      "price": 512,
+      "eyeColor": "green",
+      "name": "Nellie Schwartz"
+    }
+  ]
